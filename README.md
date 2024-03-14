@@ -1,4 +1,5 @@
-# TCC by Rodrigo Brochardt
+# TCC ##### by Rodrigo Brochardt
+
 ## __Utilização de filtragem colaborativa no auxílio de recomendação personalizada para leitores de mangá__
 
 Repositório utilizado para registrar os arquivos utilizados na construção dos artefatos necessários para obtenção da massa de dados, treinamento e execução dos modelos de predição do projeto.
